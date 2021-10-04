@@ -1,4 +1,4 @@
-# Fagprøven for Helsefagarbeidere
+# Fagprøven - helsefagarbeider
 Fagprøven er den eneste, og mest avgjørende «eksamen» i læretiden. Endelig kan du vise hva du har lært og hvordan du fungerer i jobben som lærling.
 
 Du utfører fagprøven på arbeidsplassen din, eller det stedet du har tilbrakt størstedelen av læretiden. Fagprøven kan gjennomføres fra to måneder før sluttdato, og innen to måneder etter sluttdato.

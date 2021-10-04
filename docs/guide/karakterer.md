@@ -1,7 +1,7 @@
 # Bestått eller ikke bestått
 
 ## Ikke bestått?
-Fagprøven har tre utfall: Bestått meget godt, bestått eller ikke bestått.
+Fagprøven har tre utfall: **Bestått meget godt, bestått** eller **ikke bestått.**
 
 Har du fått «ikke bestått» på fag- eller svenneprøven kan du  klage på prøven.
 

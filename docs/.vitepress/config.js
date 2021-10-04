@@ -48,6 +48,15 @@ function getGuideSidebar () {
             ]
         },
         {
+            text: 'Kompetansemål',
+            children: [
+                { text: 'Helsefremmende arbeid', link: '/guide/helsefremmende' },
+                { text: 'Kommunikasjon og samhandling', link: '/guide/kommunikasjon'},
+                {   text: 'Yrkesutøvelse', link: '/guide/yrkesutovelse'
+            }
+            ]
+        },
+        {
             text: 'Oppgaver',
             children: [
                 { text: 'Teori', link: '/guide/teori' },
