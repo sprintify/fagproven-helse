@@ -7,12 +7,13 @@ Oppgaven skal handle om gjennomføringen og brukeropplysning på alt fra to til 
 Dette er den skriftlige delen av fagprøven, og den leveres inn til bedriftens kontaktperson på slutten av dag én. Kopi av oppgaven leveres sensorene.
 
 ## Planen må inneholde:
-- Tidsplan
+- Arbeidsplan med tidsangivelser
 - Pleieplan
-- Arbeidsplan
-- Hva som skal skje, og til hvilken tid
 
-Den skriftlige delen må inneholde behov, ressurser, mål, tiltak og faglig begrunnelse.
+Arbeidsplanen må dokumentere hva som skal skje, og til hvilken tid. Denne planen danner utgangspunkt for hvordan dag 2 skal gjennomføres. 
+Arbeidplanen kan sette opp for eksempel med tid i venstre kolonne "TID" og i høyre kolonne "HVA SKAL VI GJØRE?"
+
+Den skriftlige PLEIEPLANEN må inneholde behov, ressurser, mål, tiltak og faglig begrunnelse.
 
 Det forventes at lærlingen ser hele mennesket som individ med alle dens behov: fysiske, psykiske, sosiale, åndelige og kulturelle. Den skriftlige biten må også inneholde praktisk beskrivelse av planlegging, samt istandgjøring før eksempelvis stellesituasjonen:
 
@@ -21,3 +22,7 @@ Det forventes at lærlingen ser hele mennesket som individ med alle dens behov: 
 - Hva er et godt kosthold?
 
 Du må også notere ned hva du vil trenge av dine kolleger, eksempelvis medikamenthåndtering og forflytning.
+
+### Arbeidsplan med tidsangivelser
+### Pleieplan
+

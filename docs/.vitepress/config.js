@@ -43,6 +43,7 @@ function getGuideSidebar () {
                 { text: 'Fagprøven - gjennomføring', link: '/guide/gjennomforing' },
                 { text: 'Dag 1', link: '/guide/dag-1' },
                 { text: 'Dag 2', link: '/guide/dag-2' },
+                { text: 'Dag 3', link: '/guide/dag-3' },
                 { text: 'Karakter', link: '/guide/karakterer' }
 
             ]
